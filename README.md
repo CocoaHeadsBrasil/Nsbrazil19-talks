@@ -4,7 +4,7 @@
 
 #### Rafael Machado - <https://speakerdeck.com/rakaramos/have-you-ever-tested-your-tests>
 
-#### Michel Bruno - <https://speakerdeck.com/michelbueno/advanced-debugging-in-xcode> 
+#### Michel Bueno & Larissa Barra - <https://speakerdeck.com/michelbueno/advanced-debugging-in-xcode> 
 
 #### Charles Lima - <https://speakerdeck.com/charleslima/ios-security-deep-dive>
 

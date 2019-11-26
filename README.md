@@ -6,7 +6,7 @@
 
 #### Michel Bueno & Larissa Barra - <https://speakerdeck.com/michelbueno/advanced-debugging-in-xcode> 
 
-#### Charles Lima - <https://speakerdeck.com/charleslima/ios-security-deep-dive>
+#### Charles Lima & Rodrigo Longhi Guimarães - <https://speakerdeck.com/charleslima/ios-security-deep-dive>
 
 #### Bruno Rocha - <https://speakerdeck.com/rockbruno/buckoutsidevalley>
 

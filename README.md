@@ -39,3 +39,5 @@
 #### Marlon Burnett - <https://drive.google.com/open?id=1jl_XCL4npC2jURGI-Hn1AR61E7HGjliz> 
 
 #### Rafael Bertholdo - <https://speakerdeck.com/rafabertholdo/resolvendo-problemas-com-engenharia-reversa>
+
+#### Douglas Ferreira - <https://speakerdeck.com/xdoug7/colocando-swiftui-em-producao>

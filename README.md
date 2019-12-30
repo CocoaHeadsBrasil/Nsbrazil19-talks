@@ -2,7 +2,7 @@
 
 ### Segue abaixo o link das palestras da NSBrazil 2019:
 
-#### Rafael Machado - <https://speakerdeck.com/rakaramos/have-you-ever-tested-your-tests>
+#### Rafael Machado & Henrique Morbin - <https://speakerdeck.com/rakaramos/have-you-ever-tested-your-tests>
 
 #### Michel Bueno & Larissa Barra - <https://speakerdeck.com/michelbueno/advanced-debugging-in-xcode> 
 
